@@ -1,0 +1,13 @@
+# 隐私数据——永远不要提交
+decrypted/
+diary/raw/
+diary/entries/
+my_msgs/
+*.key
+*passphrase*
+*.db
+*.db-wal
+*.db-shm
+page1.bin
+capture.log
+.DS_Store
